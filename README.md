@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TokioBoy
-- 👀 I’m interested in 
+- 👀 I’m interested in playing computer games, playing guitar, music, Japanese culture and reading books
 - 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️  I’m looking to collaborate on IT experience
+- 📫 How to reach me higemaster1@gmail.com
 
 <!---
 TokioBoy/TokioBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
