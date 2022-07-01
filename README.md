@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TokioBoy
 - 👀 I’m interested in playing computer games, playing guitar, music, Japanese culture and reading books
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java,HTML and CSS
 - 💞️  I’m looking to collaborate on IT experience
 - 📫 How to reach me higemaster1@gmail.com
 
