@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladyslav
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning CLojure,Java,HTML and CSS
+- 🌱 I’m currently learning Java, CLojure, HTML and CSS
 - 💞️  I’m looking to collaborate on IT experience
 - 📫 How to reach me higemaster1@gmail.com
 
